@@ -1,4 +1,5 @@
 {
   "DockerRun.DisableDockerrc": true,
-  "cSpell.words": ["Keycloak"]
+  "cSpell.words": ["Keycloak"],
+  "DockerRun.Containers": ["8d70c770edc5", "820ea170b52a", "36dabc1567c3"]
 }
